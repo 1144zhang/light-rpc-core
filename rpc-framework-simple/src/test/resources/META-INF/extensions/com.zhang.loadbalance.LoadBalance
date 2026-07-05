@@ -1,0 +1,2 @@
+loadBalance=com.zhang.loadbalance.loadbalancer.ConsistentHashLoadBalance
+loadBalanceNew=com.zhang.loadbalance.loadbalancer.ConsistentHashLoadBalanceNew
